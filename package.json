@@ -1,0 +1,18 @@
+{
+  "name": "dom-picker",
+  "version": "0.0.1",
+  "description": "dom picker",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.4.0",
+    "@babel/preset-env": "^7.4.2"
+  },
+  "scripts": {},
+  "author": "",
+  "license": "MIT"
+}
